@@ -11,8 +11,8 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path="/" element={<Dashboard />} />
-          <Route path="journal" element={<Journal />} />
+          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/journal" element={<Journal />} />
         </Routes>
       </Router>
       <Footer />
