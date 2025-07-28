@@ -13,6 +13,8 @@ A simple and beginner-friendly React.js web application to track daily, weekly, 
 ![Dashboard Page Screenshot 01](./public/Dashboard-01.png)
 ![Dashboard Page Screenshot 02](./public/Dashboard-02.png)
 
+## Team Members: Phone Maung
+
 ---
 
 ## 🔗 Live Demo
